@@ -21,4 +21,4 @@ Some standard weatherfiles from European cities have been added to the repositor
 
 Besides the DaylightMetrics_script are a tutorial on how to use the script and a Rhino.3dm file, which is the model used in the toturial, that can be used to follow along. 
 
-This tool has been developed by Ilias Ben Chaabane at Tegnestuen Vandkunsten, with the help of Martyna Jakubowska, Michael Granby-Larsen and Amal El-Khatib. 
+This tool has been developed at Vandkunsten Architects by Ilias Ben Chaabane, Martyna Jakubowska, Michael Granby-Larsen, Stephan Sander and Amal El-Khatib - since 2018.
